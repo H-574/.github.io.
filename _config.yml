@@ -1,7 +1,8 @@
 title: K-574
 author: GitHub User
 email: your-email@domain.com
-description: > 人間の一人
+description: > # this means to ignore newlines until "show_exerpts:"
+  人間の一人
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
